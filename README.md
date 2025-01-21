@@ -18,3 +18,10 @@ Intelligent document processing combines 4 things:
 ## ExtractThinker library
 
 The ExtractThinker library combines all of the 4 steps listed above & lets you integrate them when using Google gemini 2.0
+
+The ExtractThinker library does the 4 steps mentioned eariler:
+
+1. Load documents via a OCR tool
+2. Classify documents
+3. Split the documents
+4. Extract documents information
