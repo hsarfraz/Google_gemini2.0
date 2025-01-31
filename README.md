@@ -25,3 +25,5 @@ The ExtractThinker library does the 4 steps mentioned eariler:
 2. Classify documents
 3. Split the documents
 4. Extract documents information
+
+## Connecting to Visual Studio Code (connecting & finding the IP Address)
