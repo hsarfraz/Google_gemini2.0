@@ -26,4 +26,8 @@ The ExtractThinker library does the 4 steps mentioned eariler:
 3. Split the documents
 4. Extract documents information
 
+## linux setup
+
+create environment -> then create virtual environment 
+
 ## Connecting to Visual Studio Code (connecting & finding the IP Address)
