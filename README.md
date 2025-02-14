@@ -26,6 +26,10 @@ The ExtractThinker library does the 4 steps mentioned eariler:
 3. Split the documents
 4. Extract documents information
 
+List of document loaders in ExtractThinker 
+1. Amazon AWS Textract
+2. Microsoft Azure Document Intelligence 
+
 ## linux setup
 
 create environment -> then create virtual environment 
